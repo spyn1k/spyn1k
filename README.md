@@ -13,5 +13,8 @@ Welcome to my portfolio. I am a Computer Science student currently surviving the
 * **[Soundwave-C](https://github.com/spyn1k/WAV-Audio-Processor):** A command-line tool for editing PCM WAV files, modifying sample rates, and extracting audio channels.
 * **[Elevator-Optimizer](https://github.com/spyn1k/Elevator-Optimizer):** A dynamic programming solution designed to calculate the most efficient pathing for elevator systems.
 
+### 📊 GitHub Stats
+![spyn1k's GitHub stats](https://github-readme-stats.vercel.app/api?username=spyn1k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
 ### 📫 Transmission Incoming
 * **Email:** spirosnik2@icloud.com
