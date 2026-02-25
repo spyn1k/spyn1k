@@ -9,12 +9,12 @@ Welcome to my portfolio. I am a Computer Science student currently surviving the
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🚀 Featured Projects
-* **[GoTeam-C](https://github.com/spyn1k/GTP-Go-Engine):** A GTP-compliant Go game engine featuring a custom recursive flood-fill algorithm for capture logic.
-* **[Soundwave-C](https://github.com/spyn1k/WAV-Audio-Processor):** A command-line tool for editing PCM WAV files, modifying sample rates, and extracting audio channels.
+* **[GTP-Go-Engine](https://github.com/spyn1k/GTP-Go-Engine):** A GTP-compliant Go game engine featuring a custom recursive flood-fill algorithm for capture logic.
+* **[WAV-Audio-Processor](https://github.com/spyn1k/WAV-Audio-Processor):** A command-line tool for editing PCM WAV files, modifying sample rates, and extracting audio channels.
 * **[Elevator-Optimizer](https://github.com/spyn1k/Elevator-Optimizer):** A dynamic programming solution designed to calculate the most efficient pathing for elevator systems.
 
 ### 📊 GitHub Stats
-![spyn1k's GitHub stats](https://github-readme-stats.vercel.app/api?username=spyn1k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![spyn1k's GitHub streak](https://streak-stats.demolab.com/?user=spyn1k&theme=tokyonight&hide_border=true)
 
 ### 📫 Transmission Incoming
 * **Email:** spirosnik2@icloud.com
