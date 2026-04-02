@@ -14,6 +14,7 @@ Welcome to my portfolio. I am a Computer Science student currently surviving the
 * **[Elevator-Optimizer](https://github.com/spyn1k/Elevator-Optimizer):** A dynamic programming solution designed to calculate the most efficient pathing for elevator systems.
 
 ### 📊 GitHub Stats
-![spyn1k's GitHub stats](https://github-readme-stats.vercel.app/api?username=spyn1k&show_icons=true&hide_rank=false&theme=tokyonight)
+![spyn1k's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=spyn1k&show_icons=true&hide_rank=false)
+
 ### 📫 Transmission Incoming
 * **Email:** spirosnik2@icloud.com
