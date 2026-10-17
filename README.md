@@ -4,6 +4,7 @@ Welcome to my portfolio. I am a Computer Science student currently surviving the
 
 ### 🛠️ Languages & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-black?style=for-the-badge&logo=riscv&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
